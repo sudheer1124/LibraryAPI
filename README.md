@@ -3,7 +3,7 @@ This is a sample LIbrary application which will add books into H2 database.
 To Delete the book:
 http://localhost:8082/api/books/1
 
-To Add the book:
+To Add the book: Use POST
 http://localhost:8082/api/books
 
 Body: 
